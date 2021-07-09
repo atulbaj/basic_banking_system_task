@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 
 
-
+<?php ?>
 <html>
     <head>
         <title>Banking Transaction</title>
